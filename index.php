@@ -172,7 +172,7 @@ if(isset($_GET['d'])){
         { gambar: "3.png", ucapan: "Aku doakan semoga segala cita-citamu bisa tercapai di tahun ini." },
         { gambar: "4.png", ucapan: "Walaupun kita jauh, aku selalu mendoakan yang terbaik untukmu." },
         { gambar: "5.png", ucapan: "Terima kasih sudah menjadi teman yang baik selama ini. Semoga persahabatan kita selalu langgeng." },
-        { gambar: ["A.png" , "6.jpg","7.jpg","8.png","9.png","10.png","11.png","12.png","13.png"], ucapan: "Eheheheheee <3" }
+        { gambar: ["A.png" , "6.jpg","7.jpg","8.png","9.png","11.png","12.png","13.png"], ucapan: "Eheheheheee <3" }
       ];
 
       let index = 0;
